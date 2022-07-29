@@ -1,0 +1,6 @@
+org\example\pages\BasePage.class
+org\example\pages\OpenPage.class
+org\example\BaseTests.class
+org\example\pages\CalculatorPage.class
+org\example\pages\SearchPage.class
+org\example\CalculatorPageTests.class
